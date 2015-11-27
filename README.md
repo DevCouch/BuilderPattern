@@ -1,2 +1,2 @@
 # BuilderPattern
-The project to the [http://devcouch.net/builder-pattern/](builder pattern blog post) on devcouch.net.
+The project to the [builder pattern blog post](http://devcouch.net/builder-pattern/) on devcouch.net.
