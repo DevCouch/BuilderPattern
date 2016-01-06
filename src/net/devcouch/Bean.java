@@ -4,7 +4,7 @@ public class Bean {
     public final String firstName;
     public final String lastName;
 
-    private Bean(String firstName, String lastName) {
+    public Bean(String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
     }
